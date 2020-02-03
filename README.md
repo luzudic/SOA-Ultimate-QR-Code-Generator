@@ -1,6 +1,6 @@
 # SOA Ultimate QR Code Generator
 
-Version 1.1
+Version v1.1
 
 SOA Ultimate QR Generator is a free and open source SaaS platform to create dynamic QR Codes for URL Analytics. 
 
